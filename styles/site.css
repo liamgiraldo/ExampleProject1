@@ -1,0 +1,10 @@
+img{
+    max-width: 200px;
+}
+body{
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+    background-color: lightblue;
+}
+p{
+    font-weight: bold;
+}
